@@ -1,1 +1,1 @@
-# Pokemon-Game-21CE1365
+The Pokémon Battle Simulation project models the essential elements of Pokémon gameplay, offering a detailed framework for battling, catching, and training Pokémon. This simulation enables players to engage in turn-based battles, catch wild Pokémon using various types of Pokeballs, and manage their Pokémon team by leveling up and evolving their Pokémon.
